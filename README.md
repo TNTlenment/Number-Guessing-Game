@@ -10,7 +10,7 @@ https://github.com/TNTlenment/Number-Guessing-Game.git
 ```
 ---
 ### How to Play
-1. Run the game by executing the Main.exe file.
+1. Open the project through the IDE and compile and run it with GCC, or pull and run the main.exe files from the library directly on the Windows platform.
 2. You will be presented with a welcome message and a prompt to select the difficulty level.
 3. Choose the difficulty level by entering 1 for Easy, 2 for Medium, or 3 for Hard.
 4. Once you've selected the difficulty level, you will be prompted to enter your guess.
@@ -37,4 +37,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 * Make sure to test your changes before submitting a pull request.
 * Keep your changes concise and focused on a single issue or feature.
 ## Authors
-[TNTLenment]
+[TNTLenment](https://github.com/TNTlenment)
+## Acknowledgments
+* Thanks to the GitHub community for providing a platform for open-source projects.
+* Thanks to Roadmap.sh for providing this project idea.

@@ -8,3 +8,13 @@ Welcome to the Number Guessing Game! This is a simple command-line game where yo
 ```bash
 
 https://github.com/TNTlenment/Number-Guessing-Game.git
+
+
+## How to Play
+1. Run the game by executing the Main.exe file.
+2. You will be presented with a welcome message and a prompt to select the difficulty level.
+3. Choose the difficulty level by entering 1 for Easy, 2 for Medium, or 3 for Hard.
+4. Once you've selected the difficulty level, you will be prompted to enter your guess.
+5. Enter a number between 1 and 100.
+6. If your guess is incorrect, you will receive a hint indicating whether the correct number is higher or lower than your guess.
+7. Keep guessing until you correctly guess the number or run out of attempts.
